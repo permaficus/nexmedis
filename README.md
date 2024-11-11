@@ -54,7 +54,7 @@ GROUP BY
 | 10002 | MKB     | Biologi    | 75          | B           |
 | 10002 | MKA     | Matematika | 66          | C           |
 
-### Query
+### Task 2 - Query
 
 ```sql
 SELECT 
