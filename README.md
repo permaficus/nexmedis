@@ -80,3 +80,8 @@ GROUP BY
 | MKC    | Fisika     | 1                                             |                                    0                          |
 
 ### Task 2 - 9 Balls Flowchart
+
+<p align="center">
+<img src="https://github.com/permaficus/nexmedis/blob/main/9ball-fc.png">
+</p>
+<br>
