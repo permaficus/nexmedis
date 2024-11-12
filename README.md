@@ -71,7 +71,7 @@ GROUP BY
 ```
 
 >[!NOTE]
-> Jika mengacu pada data - data di atas maka outputnya menjadi:
+> Jika mengacu pada data - data di atas maka seharusnya output menjadi:
 
 | kodemk | namamk     | Jumlah mahasiswa yang mendapat nilai A atau B | Nilai rata-rata pada mahasiswa yang berumur lebih dari 20 dan k |
 | ------ | ---------- | --------------------------------------------- | --------------------------------------------------------------- |
@@ -79,9 +79,16 @@ GROUP BY
 | MKB    | Biologi    | 2                                             | 75.0                                                            |
 | MKC    | Fisika     | 1                                             |                                    0                          |
 
-### Task 2 - 9 Balls Flowchart
+### Task 3 - 9 Balls Flowchart
 
 <p align="center">
 <img src="https://github.com/permaficus/nexmedis/blob/main/9ball-fc.png">
+</p>
+<br>
+
+### Task 4 - ERD POS
+
+<p align="center">
+<img src="https://github.com/permaficus/nexmedis/blob/main/pos-erd.png">
 </p>
 <br>
